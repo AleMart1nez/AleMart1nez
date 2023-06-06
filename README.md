@@ -5,7 +5,7 @@
 <h1 align="center"><img width="60px" src="./XZ5V.gif">Hi, I'm Alejandro Martinez<img width="60px" src="./XZ5V.gif"></h1>
 <h3 font-size="20" align="center">A passionate full-stack developer and a student from Argentina.</h3>
 
-- 💻 I am a **Full-Stack Developer, Designer Ux/Ui, Product Manager and Construction Foreman** <img align="right" style="width:14rem; height:auto" src="https://avatars.githubusercontent.com/u/112997867?v=4"/>
+- 💻 I am a **Full-Stack Developer, Designer Ux/Ui, Product Manager and Construction Foreman** <img align="right" style="width:12rem; height:auto" src="https://avatars.githubusercontent.com/u/112997867?v=4"/>
 - 📝 I’m a big fan of **Front-End Development**. Since I appreciate **design and styling** in my projects
 - 🔭 I’m currently working on a project called **Supplies And Training** with my colleagues
 - 🌱 I’m currently learning more **programming languages** to expand my repertoire 
