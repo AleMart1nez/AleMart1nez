@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning more **programming languages** to expand my repertoire 
 - 👯 I’m looking to collaborate in projects contributing with **Front-End Development**
 - 🤝 I’m looking for a challenging position where I can apply my knowledge and skills, while continuing to learn and grow as a professional.
-- 👨‍💻 All of my projects are available [@AleMart1nez](github.com/AleMart1nez)
-- 💬 Ask me about **System Designs and Philosophy 😆**
 
 ---
 <h2 align="center"><u><b>About Me</b></u></h2>
